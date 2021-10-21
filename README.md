@@ -1,4 +1,4 @@
-# WSA-SideLoad-Apks
+# WSA Installation
 A simple guide to install [WSA](https://docs.microsoft.com/en-us/windows/android/wsa/) and sideload apks in WSA for non US users.
 
 * Download WSA `.msixbundle` from [here](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/433b1665-c732-486a-99ee-e2c610cd10d4?P1=1634857853&P2=404&P3=2&P4=RG1QenKx%2buGmiHbo7fvZCMGvn%2fl8XlvlAsKwH4XlZjVBn%2fUPCoh06wGs3ZJVHFZgNPRdzXvhNYw8ssj80YC%2brQ%3d%3d)
